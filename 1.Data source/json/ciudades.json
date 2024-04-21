@@ -1,0 +1,38 @@
+[
+    {
+        "Id_ciudad": 1,
+        "id_pais": 1,
+        "nombre": "Madrid",
+        "coordenadas": "40.4168\u00b0 N, 3.7038\u00b0 W"
+    },
+    {
+        "Id_ciudad": 2,
+        "id_pais": 1,
+        "nombre": "Barcelona",
+        "coordenadas": "41.3851\u00b0 N, 2.1734\u00b0 E"
+    },
+    {
+        "Id_ciudad": 3,
+        "id_pais": 2,
+        "nombre": "Londres",
+        "coordenadas": "51.5074\u00b0 N, 0.1278\u00b0 W"
+    },
+    {
+        "Id_ciudad": 4,
+        "id_pais": 2,
+        "nombre": "Birmingham",
+        "coordenadas": "48.8566\u00b0 N, 2.3522\u00b0 E"
+    },
+    {
+        "Id_ciudad": 5,
+        "id_pais": 3,
+        "nombre": "Tokio",
+        "coordenadas": "35.6895\u00b0 N, 139.6917\u00b0 E"
+    },
+    {
+        "Id_ciudad": 6,
+        "id_pais": 3,
+        "nombre": "Osaka",
+        "coordenadas": "34.6937\u00b0 N, 135.5023\u00b0 E"
+    }
+]

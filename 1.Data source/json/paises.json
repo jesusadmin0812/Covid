@@ -1,0 +1,14 @@
+[
+    {
+        "id_pais": 1,
+        "nombre": "Espa\u00f1a"
+    },
+    {
+        "id_pais": 2,
+        "nombre": "Reino Unido"
+    },
+    {
+        "id_pais": 3,
+        "nombre": "Jap\u00f3n"
+    }
+]
